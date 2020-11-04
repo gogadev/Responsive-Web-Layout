@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Monsieur+La+Doulaise&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Charm&display=swap');
 
 *,
 ::after,
@@ -10,12 +10,12 @@
 
 body {
   line-height: 1.5;
-  font-family: "Monsieur La Doulaise", cursive;
+  font-family: 'Charm', cursive;
 }
 
 button,
 input {
-  font-family: "Monsieur La Doulaise", cursive;
+  font-family: 'Charm', cursive;
 }
 
 ul {
